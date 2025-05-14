@@ -108,6 +108,7 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 0.5rem;
+        padding-top: 0.5rem;
     }
     .price-old{
         width: 12rem;
@@ -118,6 +119,7 @@ header {
         justify-content: center;
         flex-direction: column;
         gap: 0.3rem;
+        padding-top: 0.5rem;
     }
     .price-old p{
     font-family: var(--font-family);
