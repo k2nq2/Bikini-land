@@ -1,0 +1,58 @@
+.c3 {
+    background-image: url(../../images/c3-bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -12rem;
+    height: 105rem;
+}
+.c3-title{
+font-family: var(--second-family);
+font-weight: 400;
+font-size: 4rem;
+line-height: 87%;
+text-transform: uppercase;
+text-align: center;
+color: #f33918;
+margin-top: 21rem;
+margin-bottom: 2.1rem;
+}
+.c3-undertitle-text{
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 1.6rem;
+line-height: 112%;
+text-transform: uppercase;
+text-align: center;
+color: #fff;
+}
+.c3-program{
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 1.6rem;
+line-height: 112%;
+color: #fff;
+margin-top: 14.8rem;
+margin-left: 3.7rem;
+}
+.c3-followers{
+margin-top: 6.3rem;
+margin-left: 5.6rem;
+}
+.c3-m{
+font-family: var(--font-family);
+font-weight: 300;
+font-size: 4.6rem;
+line-height: 100%;
+color: #fff;
+}
+.c3-fol-text{
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 1.6rem;
+line-height: 100%;
+color: #fff;
+padding-left: 0.6rem;
+}
+.c3-btn{
+margin-top: 25.3rem;
+}
