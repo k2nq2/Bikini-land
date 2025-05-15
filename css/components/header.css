@@ -14,7 +14,7 @@ header {
     align-items: center;
     overflow: hidden;
     white-space: nowrap;
-    padding-top: 0.4rem;
+    padding-top: 0.7rem;
 }
 .header-inf-text{
     font-family: var(--font-family);
